@@ -1,0 +1,28 @@
+.table1 table , th ,td {
+	border: 1px solid;
+	padding: 12;
+    border-collapse: collapse;
+}
+
+.tableDiv {
+	text-align: center;
+	width: 50%;
+	margin: auto;
+}
+
+table {
+	text-align: center;
+}
+
+.table3 tr:nth-child(odd) {
+	background-color: #d9d4fa;
+}
+
+.table3 tr:nth-child(even) {
+	background-color: rgb(196, 195, 195);
+}
+
+.home-cell {
+	background-color: pink;
+	padding: 20;
+}
